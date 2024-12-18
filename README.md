@@ -1,0 +1,3 @@
+As part of the MIT Professional Education Applied Data Science Program, I undertook an elective project focused on enhancing a bank’s service delivery model by segmenting its customer base. The objective was to enable faster resolution of customer queries through data-driven insights.
+
+I utilized Google Colab and Python, employing libraries such as Pandas, NumPy, and scikit-learn to conduct a comprehensive exploratory data analysis (EDA). I created detailed visualizations to uncover patterns and trends and applied advanced algorithms like Principal Component Analysis (PCA) and t-SNE to distill complex data into actionable customer segments. These insights were instrumental in guiding the bank toward more effective and personalized service strategies.
